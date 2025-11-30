@@ -1,16 +1,16 @@
-# 📋 Gerenciador de Tarefas (React + Context API + MUI)
+# Gerenciador de Tarefas (React + Context API + MUI)
 
 Este é um projeto simples e moderno de **Gerenciador de Tarefas**, desenvolvido em **React**, utilizando **Context API** para gerenciamento de estado global e **Material UI (MUI)** para interface visual.
 
 O sistema permite:
-- ➕ Adicionar tarefas  
-- ✔️ Marcar tarefas como concluídas  
-- 🔍 Filtrar por **todas**, **concluídas** ou **pendentes**  
-- 🎨 Interface moderna com Material UI  
+- Adicionar tarefas  
+- Marcar tarefas como concluídas  
+- Filtrar por **todas**, **concluídas** ou **pendentes**  
+- Interface moderna com Material UI  
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **React**
 - **Context API**
